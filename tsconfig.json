@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "target": "es2015",
+    "noImplicitAny": true,
+    "sourceMap": false,
+    "outDir": ".built",
+    "rootDir": ".",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "types": ["node"],
+    "importHelpers": true,
+    "noEmitHelpers": true
+  },
+  "exclude": [
+    "node_modules", 
+    "bundle", 
+    "dist", 
+    "loaders", 
+    "src/index-aot.ts"],
+  "angularCompilerOptions": {
+    "genDir": ".",
+    "debug": false
+  }
+}
