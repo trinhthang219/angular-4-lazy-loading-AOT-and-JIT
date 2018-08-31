@@ -21,6 +21,7 @@
     "src/index-aot.ts"],
   "angularCompilerOptions": {
     "genDir": ".",
-    "debug": false
+    "debug": true,
+    "entryModule": "./src/main/main.module#MainModule"
   }
 }
