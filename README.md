@@ -1,4 +1,4 @@
-# Angular2 Lazy Module Loading Demo
+# Angular4 Lazy Module Loading Demo
 
 It's a sample repository to explain how to lazy module loading in your Angular2 App with webpack2.
 
@@ -7,7 +7,7 @@ The AoT demo uses `ngc`([angular/compiler-cli](https://github.com/angular/angula
 
 ## Demonstration
 
-https://quramy.github.io/ng2-lazy-load-demo/index.html
+trinhthang219@gmail.com
 
 ## Build
 
@@ -110,4 +110,4 @@ And the following part of webpack.config.js is important:
 // ...
 ```
 
-Please see also [https://github.com/Quramy/angular2-load-children-loader](https://github.com/Quramy/angular2-load-children-loader).
+Please see also [https://github.com/trinhthang219/Xin3angular4lazyloading](https://github.com/trinhthang219/Xin3angular4lazyloading).
